@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: flash_cards_development
+
+test:
+  adapter: postgresql
+  database: flash_cards_test
